@@ -1,5 +1,11 @@
 # 🦞 OpenClaw — Personal AI Assistant
 
+---
+
+This is the RuneForgeAI Hack / Experiment / modifications of OpenClaw. We make no promices this version is safe, stable, or functional. Your best bet is to go download the offical version of OpenClaw, not this one.
+
+---
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg">
