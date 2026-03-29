@@ -560,9 +560,7 @@ Thanks to all clawtributors:
 
 ---
 
-This is the RuneForgeAI Hack / Experiment / modifications of OpenClaw. We make no promices this version is safe, stable, or functional. Your best best is to go download the offical version of OpenClaw, not this one.
-
----
+This is the RuneForgeAI Hack / Experiment / modifications of OpenClaw. We make no promices this version is safe, stable, or functional. Your best bet is to go download the offical version of OpenClaw, not this one.
 
 ---
 
