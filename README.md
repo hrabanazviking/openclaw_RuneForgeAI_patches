@@ -575,4 +575,4 @@ RuneForgeAI, where runes carve wisdom into iron minds. Creating uncensored **Nor
 
 ---
 
-![https://raw.githubusercontent.com/hrabanazviking/MindSpark_ThoughtForge/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/MindSpark_ThoughtForge/refs/heads/main/IMG_0407.jpeg)
+![https://raw.githubusercontent.com/hrabanazviking/openclaw_RuneForgeAI_patches/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/openclaw_RuneForgeAI_patches/refs/heads/main/IMG_0407.jpeg)
